@@ -1,0 +1,50 @@
+body{
+    background-image: url("imagem/novo.jpg");
+    background-size: cover;
+}
+body.contato{
+    background-image: url("imagem/ligue.jpg");
+    background-size: cover;   
+}
+h2{
+    color:black;
+    }
+    div{
+        background-color: #FFF8DC;
+        width: 600px;
+        border: 10px solid black ;
+        padding: 5px;
+        margin: 15px;
+    }
+
+    div.second{
+     background-color: #FFF8DC;
+        width: 800px;
+        height: 300px;
+        border: 10px solid black ;
+        padding: 5px;
+        margin: 10px; 
+        text-align:justify;
+        opacity: 0.7;
+        
+    }
+    div.ter{
+         background-color: #FFF8DC;
+        width: 400px;
+        height: 300px;
+        border: 10px solid black ;
+        padding: 5px;
+        margin: 15px;
+        text-align:justify;
+        text-align: center;
+        opacity: 0.7;
+    }
+    
+    p{
+        color:black;
+        font-size: 150%;
+    }
+    a:link{
+        text-decoration: none;
+        color:#1C1C1C;
+    }
